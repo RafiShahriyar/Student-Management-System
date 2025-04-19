@@ -1,1 +1,1 @@
-# Student-Management-System
+# Student-Management-System using Flask and MySQL Database
